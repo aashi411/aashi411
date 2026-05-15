@@ -2,7 +2,7 @@
 
 # Hey there 👋 I'm Arpita
 
-### 💻 Full Stack Developer • 🤖 ML Enthusiast • 🔐 Cybersecurity Explorer
+### 💻 Full Stack Developer in progress • 🤖 ML Enthusiast 
 
 <p>
 Building intelligent systems, scalable web apps, and solving real-world problems through code.
@@ -38,7 +38,7 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 
 ## 🤖 Machine Learning & Data
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,stramlit" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,stramlit" />
 </p>
 
 ## 🛢 Databases & Cloud
@@ -48,7 +48,7 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 
 ## 🔧 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gitlab" />
 </p>
 
 ---
