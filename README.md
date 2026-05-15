@@ -1,8 +1,14 @@
 <div align="center">
 
-# Hey there 👋  
+
+# Hey there 👋
 # I'm Arpita
 
+<img src="bear.mp4" width="700"/>
+
+### 💻 Full Stack Developer in Progress • 🤖 ML Enthusiast
+
+</div>
 ### 💻 Full Stack Developer in Progress • 🤖 ML Enthusiast • 🚀 Tech Explorer
 
 <p>
