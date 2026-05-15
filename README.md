@@ -1,14 +1,15 @@
 <div align="center">
 
-# Hey there 👋 I'm Arpita
+# Hey there 👋  
+# I'm Arpita
 
-### 💻 Full Stack Developer in progress • 🤖 ML Enthusiast 
+### 💻 Full Stack Developer in Progress • 🤖 ML Enthusiast • 🚀 Tech Explorer
 
 <p>
-Building intelligent systems, scalable web apps, and solving real-world problems through code.
+Building intelligent systems, scalable web applications, and transforming ideas into impactful digital experiences.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Developer;Cybersecurity+Enthusiast;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=700&height=45)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Developer;Full+Stack+Web+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor;Exploring+AI+%2B+Automation+%2B+Blockchain" alt="Typing SVG" />
 
 </div>
 
@@ -16,11 +17,12 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 
 # 🚀 About Me
 
-- 🔭 Currently working on projects involving **Machine Learning,and Web Development**
-- 🧠 Interested in building systems that combine **AI  Automation and Rag**
-- 🌐 Passionate about creating clean, responsive, and scalable applications
-- ⚡ Love exploring modern technologies and solving challenging problems
-- 📚 Constantly learning and improving through real-world projects and open-source contributions
+- 🔭 Currently building projects focused on **Machine Learning** and **Web Development**
+- 🧠 Interested in creating systems that combine **AI, Automation, Blockchain, and RAG**
+- 🌐 Passionate about developing clean, scalable, and user-friendly applications
+- ⚡ Love experimenting with modern technologies and building practical solutions
+- 📚 Continuously learning through projects, collaboration, and open-source contributions
+- 💡 Strong interest in solving real-world problems using technology
 
 ---
 
@@ -33,22 +35,36 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 
 ## 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flask,next.js,GSAP" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flask,nextjs" />
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/GSAP-Animation-black?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+</p>
+
+---
 
 ## 🤖 Machine Learning & Data
 <p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,scikit-learn,stramlit" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,streamlit" />
 </p>
 
-## 🛢 Databases & Cloud
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-blue?style=for-the-badge" />
+</p>
+
+---
+
+## 🛢 Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+---
+
 ## 🔧 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gitlab, pyCharm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gitlab,pycharm" />
 </p>
 
 ---
@@ -57,10 +73,21 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🌍 Full Stack Web Development
-- ☁️ Cloud & Backend Systems
+- ⛓️ Blockchain & Decentralized Systems
+- ☁️ Backend Systems & APIs
 - 📊 Data Analysis & Automation
 - 🧩 Problem Solving & DSA
+- 🔐 Exploring Secure and Intelligent Systems
 
+---
+
+# 📌 What I Like Building
+
+✨ Smart AI-powered applications  
+✨ Responsive and modern web interfaces  
+✨ Automation tools that solve real problems  
+✨ Scalable backend systems and APIs  
+✨ Interactive UI/UX experiences with animations  
 
 ---
 
@@ -80,7 +107,8 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://github.com/aashi411">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -92,12 +120,15 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 <a href="mailto:arpita.aparna04@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ✨ "Code. Learn. Build. Repeat."
+## ⚡ “Code. Learn. Build. Repeat.”
+
+<img src="https://komarev.com/ghpvc/?username=aashi411&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
