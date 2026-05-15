@@ -16,8 +16,8 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 
 # 🚀 About Me
 
-- 🔭 Currently working on projects involving **Machine Learning, Cybersecurity, and Web Development**
-- 🧠 Interested in building systems that combine **AI + Security + Automation**
+- 🔭 Currently working on projects involving **Machine Learning,and Web Development**
+- 🧠 Interested in building systems that combine **AI  Automation and Rag**
 - 🌐 Passionate about creating clean, responsive, and scalable applications
 - ⚡ Love exploring modern technologies and solving challenging problems
 - 📚 Constantly learning and improving through real-world projects and open-source contributions
@@ -28,27 +28,27 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 
 ## 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,java,js,c" />
 </p>
 
 ## 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flask,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flask,next.js,GSAP" />
 </p>
 
 ## 🤖 Machine Learning & Data
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,stramlit" />
 </p>
 
 ## 🛢 Databases & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ## 🔧 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -56,24 +56,11 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 # 💡 Interests
 
 - 🤖 Artificial Intelligence & Machine Learning
-- 🔐 Cybersecurity & Digital Safety
 - 🌍 Full Stack Web Development
 - ☁️ Cloud & Backend Systems
 - 📊 Data Analysis & Automation
 - 🧩 Problem Solving & DSA
 
----
-
-# 📌 Featured Projects
-
-### 🔹 AI-Based Terms & Conditions Assistant
-A smart assistant designed to simplify and explain complex Terms & Conditions for users in a human-readable format.
-
-### 🔹 Internship & Job Email Authentication Bot
-A cybersecurity-focused system that helps verify the authenticity of internship and job-related emails to protect users from scams.
-
-### 🔹 Modern Full Stack Applications
-Built responsive and scalable applications with clean UI/UX and secure backend integrations.
 
 ---
 
@@ -94,15 +81,15 @@ Built responsive and scalable applications with clean UI/UX and secure backend i
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/aashi411">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/arpita-aparna-sahay-125b60305/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:arpita.aparna04@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
