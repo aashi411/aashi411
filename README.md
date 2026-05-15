@@ -1,11 +1,6 @@
 <div align="center">
 
-# Hey there 👋  
-
-
-<img src="https://raw.githubusercontent.com/aashi411/aashi411/main/nick.gif" width="650"/>
-
-# I'm Arpita
+# Hey there 👋  I'm Arpita
 
 ### 💻 Full Stack Developer in Progress • 🤖 ML Enthusiast • 🚀 Tech Explorer
 
