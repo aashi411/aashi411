@@ -38,7 +38,7 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 
 ## 🤖 Machine Learning & Data
 <p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,stramlit" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,scikit-learn,stramlit" />
 </p>
 
 ## 🛢 Databases & Cloud
@@ -48,7 +48,7 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 
 ## 🔧 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gitlab" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gitlab, pyCharm" />
 </p>
 
 ---
@@ -68,11 +68,11 @@ Building intelligent systems, scalable web apps, and solving real-world problems
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=aashi411&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aashi411&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashi411&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
