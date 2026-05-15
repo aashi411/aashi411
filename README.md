@@ -1,14 +1,10 @@
 <div align="center">
 
-
-# Hey there 👋
+# Hey there 👋  
 # I'm Arpita
 
-<img src="bear.mp4" width="700"/>
+<img src="nick.gif" width="650"/>
 
-### 💻 Full Stack Developer in Progress • 🤖 ML Enthusiast
-
-</div>
 ### 💻 Full Stack Developer in Progress • 🤖 ML Enthusiast • 🚀 Tech Explorer
 
 <p>
@@ -35,11 +31,15 @@ Building intelligent systems, scalable web applications, and transforming ideas 
 # 🛠 Tech Stack
 
 ## 👨‍💻 Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,c" />
 </p>
 
+---
+
 ## 🌐 Web Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flask,nextjs" />
 </p>
@@ -51,6 +51,7 @@ Building intelligent systems, scalable web applications, and transforming ideas 
 ---
 
 ## 🤖 Machine Learning & Data
+
 <p>
 <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,streamlit" />
 </p>
@@ -62,6 +63,7 @@ Building intelligent systems, scalable web applications, and transforming ideas 
 ---
 
 ## 🛢 Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
@@ -69,6 +71,7 @@ Building intelligent systems, scalable web applications, and transforming ideas 
 ---
 
 ## 🔧 Tools & Platforms
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gitlab,pycharm" />
 </p>
